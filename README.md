@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PedroCedro
 - 👀 I’m interested in software programming
-- 👀 I have skills in Java, MySql, HTML, CSS, JavaScript
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on Java, html, css, js, projects
+- 👀 I have skills in Java, MySql, PostgreSQL, HTML, CSS, JS
+- 🌱 I’m currently learning SpringBoot, JPA, Hibernate
+- 💞️ I’m looking to collaborate on any projects
 - 📫
 
 <!---
