@@ -1,11 +1,34 @@
-- 👋 Hi, I’m @PedroCedro
-- 👀 I’m interested in software programming
-- 👀 I have skills in Java, MySql, PostgreSQL, HTML, CSS, JS
-- 🌱 I’m currently learning SpringBoot, JPA, Hibernate
-- 💞️ I’m looking to collaborate on any projects
-- 📫
+👋 Hi, I’m Pedro (@PedroCedro)
 
-<!---
-PedroCedro/PedroCedro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Back-end developer focused on Java and domain-driven design  
+🏗️ Interested in building robust systems (ERP, business rules, backend services)
+
+🧠 Main stack:
+- Java 17
+- Spring Boot
+- JPA / Hibernate
+- PostgreSQL / MySQL
+- Git / Maven
+
+- 🧠 Domain experience:
+- ERP business processes inspired by real-world systems (Winthor / TOTVS)
+
+📦 Currently working on:
+- Mini ERP project (domain-first, tested, versioned)
+
+🧪 I value:
+- Business rules before database
+- Tests to validate domain behavior
+- Clean and evolvable code
+
+🌱 Currently improving:
+- Spring ecosystem
+- Software architecture
+- Software design and modeling
+
+🤝 Open to collaborate on:
+- Java back-end projects
+- Learning-driven or real-world systems
+
+📫 Contact:
+- GitHub issues / discussions
