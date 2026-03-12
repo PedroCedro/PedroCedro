@@ -4,7 +4,7 @@
 🏗️ Interested in building robust systems (ERP, business rules, backend services)
 
 🧠 Main stack:
-- Java 17
+- Java 21
 - Spring Boot
 - JPA / Hibernate
 - PostgreSQL / MySQL
